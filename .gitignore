@@ -5,6 +5,7 @@
 .idea
 .DS_Store
 .packages
+.flutter-plugins
 .flutter-plugins-dependencies
 build/
 # If you're building an application, you may want to check-in your pubspec.lock
